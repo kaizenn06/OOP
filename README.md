@@ -2,4 +2,4 @@
 
 # 🚀 DSA Practice
 
-> 📌 Repo lưu bài tập Cấu trúc dữ liệu & Giải thuật (DSA) tại PTIT
+> 📌 Repo lưu bài tập Lập trình hướng đối tượng (OOP) tại PTIT
