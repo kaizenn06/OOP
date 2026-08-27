@@ -1,13 +1,6 @@
 import java.util.*;
 
 public class b24dccn186 {
-    static int gcd(int a,  int b) {
-        if (b == 0) return a;
-        return gcd(b, a % b);
-    }
-    static int lcm(int a, int b) {
-        return a / gcd(a, b) * b;
-    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
