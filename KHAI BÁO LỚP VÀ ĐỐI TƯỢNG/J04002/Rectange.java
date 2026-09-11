@@ -2,7 +2,7 @@ package J04002;
 
 class Rectange {
     private double width;
-    private double height;
+    private double height;  
     private String color;
     public Rectange() {
         this.width = 1;
