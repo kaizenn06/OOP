@@ -2,7 +2,7 @@ package J04003;
 
 public class PhanSo {
     private long tu;
-    private long mau;
+    private long mau;  
     public PhanSo(long tu, long mau) {
         this.tu = tu;
         this.mau = mau;
