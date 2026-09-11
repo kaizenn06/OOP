@@ -1,6 +1,6 @@
 package J04003;
 
-import java.util.*;  
+import java.util.*;
 import java.text.*;
 
 public class Main {
