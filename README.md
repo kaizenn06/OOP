@@ -3,14 +3,7 @@
 # 🚀 OOP Practice
 
 > 📌 Repo lưu bài tập Lập trình hướng đối tượng (OOP) tại PTIT
----
-<div align="center">
-  
-> **Encapsulate your code.**
->
-> **From N.M.Son with love =))**
-> 
-</div>
+
 ---
 
 ## 📂 Cấu trúc thư mục 
@@ -26,3 +19,17 @@ OOP/
 ├── VÀO RA FILE
 ├── XÂU KÝ TỰ
 
+---
+
+## 📝 P/S
+
+> ⚠️ Bài nào bị **RTE** thì gom tất cả file vào **1 file** để chạy.
+>
+> *Do phần mềm chấm hơi chậm :v*
+
+<div align="center">
+
+**Encapsulate your code.**  
+**From N.M.Son with love =))**
+
+</div>
