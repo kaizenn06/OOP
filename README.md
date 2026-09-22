@@ -1,4 +1,4 @@
-![java](https://img.shields.io/badge/Language--blue)
+![java](https://img.shields.io/badge/Language-java-blue)
 
 # 🚀 OOP Practice
 
