@@ -18,7 +18,6 @@ OOP/
 ├── ỨNG DỤNG JAVA COLLECTION
 ├── VÀO RA FILE
 ├── XÂU KÝ TỰ
-
 ---
 
 ## 📝 P/S
@@ -27,11 +26,5 @@ OOP/
 >
 > *Do phần mềm chấm hơi lỏd :v*
 
-<br>
-
-<div align="center">
-
-**Encapsulate your code.**  
-**From N.M.Son with love =))**
-
-</div>
+### ❤️ Encapsulate your code.
+### From N.M.Son with love =))
