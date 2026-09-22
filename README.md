@@ -25,7 +25,9 @@ OOP/
 
 > ⚠️ Bài nào bị **RTE** thì gom tất cả file vào **1 file** để chạy.
 >
-> *Do phần mềm chấm hơi chậm :v*
+> *Do phần mềm chấm hơi lỏd :v*
+
+<br>
 
 <div align="center">
 
