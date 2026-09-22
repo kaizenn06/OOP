@@ -3,9 +3,14 @@
 # 🚀 OOP Practice
 
 > 📌 Repo lưu bài tập Lập trình hướng đối tượng (OOP) tại PTIT
+---
+<div align="center">
+  
+> **Encapsulate your code.**
 >
-> **From NM Son with love =))**
-
+> **From N.M.Son with love =))**
+> 
+</div>
 ---
 
 ## 📂 Cấu trúc thư mục 
