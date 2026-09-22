@@ -1,4 +1,4 @@
-[java](https://camo.githubusercontent.com/047d653b30843d1f48026472a80aca8e88c194ee5781b3c579504eb388df8bb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d6a6176612d626c7565)
+[java](https://img.shields.io/badge/Language-C++-blue)
 
 # 🚀 OOP Practice
 
