@@ -3,3 +3,19 @@
 # 🚀 OOP Practice
 
 > 📌 Repo lưu bài tập Lập trình hướng đối tượng (OOP) tại PTIT
+
+---
+
+## 📂 Cấu trúc thư mục 
+
+```bash
+OOP/
+├── KHAI BÁO LỚP VÀ ĐỐI TƯỢNG
+├── LẬP TRÌNH JAVA CƠ BẢN
+├── MẢNG
+├── MẢNG ĐỐI TƯỢNG
+├── QUAN HỆ GIỮA CÁC LỚP
+├── ỨNG DỤNG JAVA COLLECTION
+├── VÀO RA FILE
+├── XÂU KÝ TỰ
+
