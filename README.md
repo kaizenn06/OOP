@@ -3,6 +3,8 @@
 # 🚀 OOP Practice
 
 > 📌 Repo lưu bài tập Lập trình hướng đối tượng (OOP) tại PTIT
+>
+> **From NM Son with love =))**
 
 ---
 
