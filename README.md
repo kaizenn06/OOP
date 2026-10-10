@@ -22,6 +22,8 @@ OOP/
 
 *Do phần mềm chấm hơi lỏd :v*
 
-❤️ Encapsulate your code.
-
-From N.M.Son with love =))
+<p align="center">
+  ❤️ Encapsulate your code.
+  <br>
+  From N.M.Son with love =))
+</p>
